@@ -1,0 +1,28 @@
+@charset "UTF-8";
+h1,
+
+.page-header {
+
+  width: 970px;
+
+  padding: 0 15px;
+
+  margin-right: auto;
+
+  margin-left: auto;
+
+}
+
+
+footer {
+
+  margin-top: 30px;
+
+  text-align: center;
+
+}
+
+.search-box {
+  display: flex;
+  justify-content: center;
+}
